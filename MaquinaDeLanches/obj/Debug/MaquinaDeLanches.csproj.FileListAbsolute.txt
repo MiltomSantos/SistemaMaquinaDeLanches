@@ -1,0 +1,10 @@
+C:\Users\miltom.snascimento\source\repos\MaquinaDeLanches\MaquinaDeLanches\bin\Debug\MaquinaDeLanches.exe.config
+C:\Users\miltom.snascimento\source\repos\MaquinaDeLanches\MaquinaDeLanches\bin\Debug\MaquinaDeLanches.exe
+C:\Users\miltom.snascimento\source\repos\MaquinaDeLanches\MaquinaDeLanches\bin\Debug\MaquinaDeLanches.pdb
+C:\Users\miltom.snascimento\source\repos\MaquinaDeLanches\MaquinaDeLanches\obj\Debug\MaquinaDeLanches.csproj.AssemblyReference.cache
+C:\Users\miltom.snascimento\source\repos\MaquinaDeLanches\MaquinaDeLanches\obj\Debug\MaquinaDeLanches.Form1.resources
+C:\Users\miltom.snascimento\source\repos\MaquinaDeLanches\MaquinaDeLanches\obj\Debug\MaquinaDeLanches.Properties.Resources.resources
+C:\Users\miltom.snascimento\source\repos\MaquinaDeLanches\MaquinaDeLanches\obj\Debug\MaquinaDeLanches.csproj.GenerateResource.cache
+C:\Users\miltom.snascimento\source\repos\MaquinaDeLanches\MaquinaDeLanches\obj\Debug\MaquinaDeLanches.csproj.CoreCompileInputs.cache
+C:\Users\miltom.snascimento\source\repos\MaquinaDeLanches\MaquinaDeLanches\obj\Debug\MaquinaDeLanches.exe
+C:\Users\miltom.snascimento\source\repos\MaquinaDeLanches\MaquinaDeLanches\obj\Debug\MaquinaDeLanches.pdb
